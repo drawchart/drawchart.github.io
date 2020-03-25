@@ -1,7 +1,7 @@
 {
-    "name": "draw.io",
-  	"short_name": "drawio",
-    "description": "Draw.io is a completely free diagram editor.",
+    "name": "Draw Chart",
+  	"short_name": "DrawChart",
+    "description": "Forks from drawio.",
     "icons": [
         {
             "src": "/images/android-chrome-192x192.png",
